@@ -36,7 +36,7 @@ This project includes the schematic, PCB layout, 3D visualization, and simulatio
 
 ## 🎞️ Simulation  
 A short simulation of the circuit:  
-`Media/simulation.mp4`
+`simulation.mp4`
 
 ---
 
