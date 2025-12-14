@@ -27,10 +27,10 @@ This project includes the schematic, PCB layout, 3D visualization, and simulatio
 ![Schematic](images/schematic.png)
 
 ### PCB Layout  
-![PCB](Media/pcb_layout.png)
+![PCB](images/pcb.png)
 
 ### 3D View  
-![3D](Media/3d_view.png)
+![3D](images/3D.png)
 
 ---
 
