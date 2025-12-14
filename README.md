@@ -15,9 +15,9 @@ This project includes the schematic, PCB layout, 3D visualization, and simulatio
 ---
 
 ## 🛠️ Project Files
-- `*.kiCad_sch` – Schematic file  
-- `*.kiCad_pcb` – PCB layout file  
-- `Media/` – Screenshots + rendered views  
+- `rc_circuit.kiCad_sch` – Schematic file  
+- `rc_circuit.kiCad_pcb` – PCB layout file  
+- `Images/` – Screenshots 
 
 ---
 
